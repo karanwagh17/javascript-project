@@ -1,1 +1,1 @@
-LIVE WEBSITE : <a href="https://javascript-project-qgs4.vercel.app/discription.html?image=https%3A%2F%2Fwww.nixon.com%2Fcdn%2Fshop%2Ffiles%2FA1369-5172-view1_500x.png%3Fv%3D1718725104&title=Time%20Teller%20Solar&price=%24150.00">nixon</a>
+LIVE WEBSITE : <a href="https://javascript-project-qgs4.vercel.app/">nixon</a>
